@@ -68,7 +68,7 @@ int Window::Initialise()
 							 // Asignar valores de la ventana y coordenadas
 							 
 							 //Asignar Viewport
-	glViewport(0, 0, bufferWidth, bufferHeight);
+	glViewport(0, 0, bufferWidth, bufferHeight); //Primer linea OpenGL
 	//Callback para detectar que se está usando la ventana
 	glfwSetWindowUserPointer(mainWindow, this);
 }

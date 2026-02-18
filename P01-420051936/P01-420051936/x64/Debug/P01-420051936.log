@@ -1,4 +1,0 @@
-﻿  P01-420051936.cpp
-C:\Users\Cabal\Documents\Universidad\Quetza\Semestre 2026-2\RepositorioGithub\LabComputacionGrafica\P01-420051936\P01-420051936.cpp(213,24): warning C4267: '=': conversión de 'size_t' a 'GLint'; posible pérdida de datos
-C:\Users\Cabal\Documents\Universidad\Quetza\Semestre 2026-2\RepositorioGithub\LabComputacionGrafica\P01-420051936\P01-420051936.cpp(332,21): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-  P01-420051936.vcxproj -> C:\Users\Cabal\Documents\Universidad\Quetza\Semestre 2026-2\RepositorioGithub\LabComputacionGrafica\P01-420051936\x64\Debug\P01-420051936.exe

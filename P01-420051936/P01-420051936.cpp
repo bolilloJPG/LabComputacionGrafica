@@ -9,7 +9,7 @@
 #include <ctime>
 // Ejercicio 1 -----------------
 //Dimensiones de la ventana
-const int WIDTH = 1200, HEIGHT = 1000;
+const int WIDTH = 800, HEIGHT = 800;
 GLuint VAO, VBO, shader; // identidicadores VAO-> para asignar datos de VertexArrayObjet (donde declaramos los vértices para dibujar las líneas, puntos o triángulos)
 // Vértice no es igual a x,y,z, podemos tener igual s, etc, otras coordenadas espaciales que no es solo para triángulo
 //BVO = BuuferVertexObject, espacio de memoria de video que se asigna para los datos del VAO

@@ -8,7 +8,6 @@ P01-420051936/ipch/
 
 # Ignore compiled files
 *.obj
-*.pdb
 *.ilk
 *.idb
 *.tlog

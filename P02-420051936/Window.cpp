@@ -3,7 +3,7 @@
 Window::Window()
 {
 	width = 800;
-	height = 600;
+	height = 800;
 	for (size_t i = 0; i < 1024; i++)
 	{
 		keys[i] = 0;
@@ -35,7 +35,7 @@ int Window::Initialise()
 	glfwWindowHint(GLFW_OPENGL_FORWARD_COMPAT, GL_TRUE);
 
 	//CREAR VENTANA
-	mainWindow = glfwCreateWindow(width, height, "Practica 2: Proyecciones, transformaciones", NULL, NULL);
+	mainWindow = glfwCreateWindow(width, height, "Practica 2: Proyecciones, transformaciones | P02-420051936", NULL, NULL);
 
 	if (!mainWindow)
 	{

@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DB2F09DD-1C27-4D5E-BEFD-56EF8BA772F4}|P03-420051936.vcxproj|C:\\Users\\Cabal\\Documents\\Universidad\\Quetza\\Semestre 2026-2\\RepositorioGithub\\LabComputacionGrafica\\P03-420051936\\P03-420051936.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DB2F09DD-1C27-4D5E-BEFD-56EF8BA772F4}|P03-420051936.vcxproj|solutionrelative:P03-420051936.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB2F09DD-1C27-4D5E-BEFD-56EF8BA772F4}|P03-420051936.vcxproj|C:\\Users\\Cabal\\Documents\\Universidad\\Quetza\\Semestre 2026-2\\RepositorioGithub\\LabComputacionGrafica\\P03-420051936\\Window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DB2F09DD-1C27-4D5E-BEFD-56EF8BA772F4}|P03-420051936.vcxproj|solutionrelative:Window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +22,11 @@
               "Title": "P03-420051936.cpp",
               "DocumentMoniker": "C:\\Users\\Cabal\\Documents\\Universidad\\Quetza\\Semestre 2026-2\\RepositorioGithub\\LabComputacionGrafica\\P03-420051936\\P03-420051936.cpp",
               "RelativeDocumentMoniker": "P03-420051936.cpp",
-              "ToolTip": "C:\\Users\\Cabal\\Documents\\Universidad\\Quetza\\Semestre 2026-2\\RepositorioGithub\\LabComputacionGrafica\\P03-420051936\\P03-420051936.cpp*",
-              "RelativeToolTip": "P03-420051936.cpp*",
-              "ViewState": "AgIAAAMDAAAAAAAAAAAwwBkDAAA9AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Cabal\\Documents\\Universidad\\Quetza\\Semestre 2026-2\\RepositorioGithub\\LabComputacionGrafica\\P03-420051936\\P03-420051936.cpp",
+              "RelativeToolTip": "P03-420051936.cpp",
+              "ViewState": "AgIAAEYDAAAAAAAAAAAwwEcDAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-08T18:54:37.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Window.cpp",
-              "DocumentMoniker": "C:\\Users\\Cabal\\Documents\\Universidad\\Quetza\\Semestre 2026-2\\RepositorioGithub\\LabComputacionGrafica\\P03-420051936\\Window.cpp",
-              "RelativeDocumentMoniker": "Window.cpp",
-              "ToolTip": "C:\\Users\\Cabal\\Documents\\Universidad\\Quetza\\Semestre 2026-2\\RepositorioGithub\\LabComputacionGrafica\\P03-420051936\\Window.cpp",
-              "RelativeToolTip": "Window.cpp",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAG8AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-08T04:42:37.339Z",
               "EditorCaption": ""
             }
           ]

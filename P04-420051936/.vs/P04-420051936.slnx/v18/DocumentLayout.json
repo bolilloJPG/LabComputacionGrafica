@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cabal\\Documents\\Universidad\\Quetza\\Semestre 2026-2\\RepositorioGithub\\LabComputacionGrafica\\P04-420051936\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D859227F-5253-48E4-BA82-F8E82A7EDF9E}|P04-420051936.vcxproj|C:\\Users\\Cabal\\Documents\\Universidad\\Quetza\\Semestre 2026-2\\RepositorioGithub\\LabComputacionGrafica\\P04-420051936\\P04-420051936.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D859227F-5253-48E4-BA82-F8E82A7EDF9E}|P04-420051936.vcxproj|solutionrelative:P04-420051936.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859227F-5253-48E4-BA82-F8E82A7EDF9E}|P04-420051936.vcxproj|C:\\Users\\Cabal\\Documents\\Universidad\\Quetza\\Semestre 2026-2\\RepositorioGithub\\LabComputacionGrafica\\P04-420051936\\Window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D859227F-5253-48E4-BA82-F8E82A7EDF9E}|P04-420051936.vcxproj|solutionrelative:Window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859227F-5253-48E4-BA82-F8E82A7EDF9E}|P04-420051936.vcxproj|C:\\Users\\Cabal\\Documents\\Universidad\\Quetza\\Semestre 2026-2\\RepositorioGithub\\LabComputacionGrafica\\P04-420051936\\Window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D859227F-5253-48E4-BA82-F8E82A7EDF9E}|P04-420051936.vcxproj|solutionrelative:Window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P04-420051936.cpp",
+              "DocumentMoniker": "C:\\Users\\Cabal\\Documents\\Universidad\\Quetza\\Semestre 2026-2\\RepositorioGithub\\LabComputacionGrafica\\P04-420051936\\P04-420051936.cpp",
+              "RelativeDocumentMoniker": "P04-420051936.cpp",
+              "ToolTip": "C:\\Users\\Cabal\\Documents\\Universidad\\Quetza\\Semestre 2026-2\\RepositorioGithub\\LabComputacionGrafica\\P04-420051936\\P04-420051936.cpp",
+              "RelativeToolTip": "P04-420051936.cpp",
+              "ViewState": "AgIAAOkBAAAAAAAAAAAAAPkBAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-15T20:03:34.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window.h",
+              "DocumentMoniker": "C:\\Users\\Cabal\\Documents\\Universidad\\Quetza\\Semestre 2026-2\\RepositorioGithub\\LabComputacionGrafica\\P04-420051936\\Window.h",
+              "RelativeDocumentMoniker": "Window.h",
+              "ToolTip": "C:\\Users\\Cabal\\Documents\\Universidad\\Quetza\\Semestre 2026-2\\RepositorioGithub\\LabComputacionGrafica\\P04-420051936\\Window.h",
+              "RelativeToolTip": "Window.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-14T06:13:20.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window.cpp",
+              "DocumentMoniker": "C:\\Users\\Cabal\\Documents\\Universidad\\Quetza\\Semestre 2026-2\\RepositorioGithub\\LabComputacionGrafica\\P04-420051936\\Window.cpp",
+              "RelativeDocumentMoniker": "Window.cpp",
+              "ToolTip": "C:\\Users\\Cabal\\Documents\\Universidad\\Quetza\\Semestre 2026-2\\RepositorioGithub\\LabComputacionGrafica\\P04-420051936\\Window.cpp",
+              "RelativeToolTip": "Window.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-14T06:13:29.071Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

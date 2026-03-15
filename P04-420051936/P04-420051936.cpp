@@ -526,7 +526,7 @@ int main()
 		/* ==================================================================================== GATO ROBOT ==================================================================================== */
 		/* ==================================================================================== Jerarquía 1 ==================================================================================== */
 		model = glm::mat4(1.0);
-		model = glm::translate(model, glm::vec3(0.0f, 1.0f, -4.0f));
+		model = glm::translate(model, glm::vec3(25.0f, 1.0f, -4.0f));
 		//model = glm::translate(model, glm::vec3(30.0f, 1.0f, -4.0f));
 		modelaux = model;  //Guardo el translate para la parte de arriba ( la cabeza y cuello )
 		modelaux2 = model; //Guardo el translate para la parte de abajo ( los pies )

@@ -19,11 +19,17 @@ public:
 	bool* getsKeys() { return keys; }
 	void swapBuffers() { return glfwSwapBuffers(mainWindow); }
 
-	GLfloat mueve_mandibula() { return mandibula; }
+	/*GLfloat mueve_mandibula() { return mandibula; }
 	GLfloat mueve_pie_atras_izq() { return pie_atras_izq; }
 	GLfloat mueve_pie_atras_der() { return pie_atras_der; }
 	GLfloat mueve_pie_delante_izq() { return pie_delante_izq; }
-	GLfloat mueve_pie_delante_der() { return pie_delante_der; }
+	GLfloat mueve_pie_delante_der() { return pie_delante_der; }*/
+
+	//Movimientos coche
+	GLfloat traslacion_coche() { return traslacion_coche_value; }
+	GLfloat giro_cofre() { return giro_cofre_value; }
+	GLfloat giro_llantas() { return giro_llantas_value; }
+
 	
 	~Window();
 private: 
@@ -39,8 +45,12 @@ private:
 	GLfloat muevex;
 
 	//Moviemiento Goddard
-	GLfloat  mandibula, pie_atras_izq, pie_atras_der, pie_delante_izq, pie_delante_der;
-	bool mandibula_flag, pie_atras_izq_flag, pie_atras_der_flag, pie_delante_izq_flag, pie_delante_der_flag;
+	/*GLfloat  mandibula, pie_atras_izq, pie_atras_der, pie_delante_izq, pie_delante_der;
+	bool mandibula_flag, pie_atras_izq_flag, pie_atras_der_flag, pie_delante_izq_flag, pie_delante_der_flag;*/
+
+	//Movimiento Coche
+	GLfloat traslacion_coche_value, giro_cofre_value, giro_llantas_value;
+	bool giro_cofre_flag;
 
 	bool mouseFirstMoved;
 	static void ManejaTeclado(GLFWwindow* window, int key, int code, int action, int mode);

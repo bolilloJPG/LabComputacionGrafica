@@ -1,0 +1,18 @@
+# Ignore Visual Studio folder inside project
+P10-420051936/.vs/
+
+# Ignore IntelliSense files
+P10-420051936/ipch/
+*.ipch
+*.pch
+
+# Ignore compiled files
+*.ilk
+*.idb
+*.tlog
+*.log
+
+# Ignore user-specific files
+*.user
+*.suo
+*.cache
